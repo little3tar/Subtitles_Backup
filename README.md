@@ -1,2 +1,2 @@
 # Subtitles
-备份适配VCB-Studio压片文件名字幕。
+备份适配压片文件名字幕。
