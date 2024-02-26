@@ -1,7 +1,7 @@
 # Subtitles
 
-> # VCB-Studio
->
+## VCB-Studio
+
 > _备份适配 VCB 压片组压片文件名字幕。_
 >
 > _文件夹命名规则：压片组默认文件名+发片 UID+字幕组+繁(tc)/简(sc)_
