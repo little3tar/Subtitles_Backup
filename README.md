@@ -4,7 +4,9 @@
 
 **备份适配 VCB 压片组压片文件名字幕。**
 
-**_中文名链接导向[`萌娘百科`](https://mzh.moegirl.org.cn/Mainpage#/desktop/index)相关页面。_**
+_**部分一级文件夹内有`Fonts`文件夹，`Fonts`文件夹包含该一级文件夹内字幕所需字体文件。`Fonts`文件夹命名优先为下载时默认名。**_
+
+_**中文名链接导向[`萌娘百科`](https://mzh.moegirl.org.cn/Mainpage#/desktop/index)相关页面。**_
 
 _文件夹命名规则：压片组默认文件名+发片 UID+字幕组+繁(tc)(/简(sc))_
 
