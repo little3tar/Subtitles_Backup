@@ -6,7 +6,7 @@
 
 _**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)相关作品发布页面。**_
 
-_文件夹命名规则：压片组默认文件名 + 发片 UID + 字幕组 + 繁（tc）（ / 简（sc））_
+_文件夹命名规则：压片组默认文件名 + 发片 UID + 字幕组 + 简（sc）（ / 繁（tc））_
 
 - **[Airota&VCB-Studio] Majo no Tabitabi [Ma10p_1080p][2408RS1].Airota.sc&tc [_魔女之旅_](https://vcb-s.com/archives/19020)**
 
