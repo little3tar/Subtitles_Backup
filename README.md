@@ -8,6 +8,8 @@ _**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)相关作品发布页�
 
 _文件夹命名规则：压片组默认文件名 + 发片 UID + 字幕组 + 繁（tc）（ / 简（sc））_
 
+- **[Airota&VCB-Studio] Majo no Tabitabi [Ma10p_1080p][2408RS1].Airota.sc&tc [_魔女之旅_](https://vcb-s.com/archives/19020)**
+
 - **[DMG&VCB-Studio] OSHI NO KO [Ma10p_1080p][240307].DMG.sc&tc [_【我推的孩子】_](https://vcb-s.com/archives/18293)**
 
 - **[DMG&VCB-Studio] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season [Ma10p_1080p][230906].DMG.sc&tc [_欢迎来到实力至上主义教室 第二季_](https://vcb-s.com/archives/17429)**
