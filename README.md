@@ -14,6 +14,8 @@ _文件夹命名规则：压片组默认文件名 + 发片 UID + 字幕组 + 简
 
 - **[DMG&VCB-Studio] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season [Ma10p_1080p][230906].DMG.sc&tc [_欢迎来到实力至上主义教室 第二季_](https://vcb-s.com/archives/17429)**
 
+- **[VCB-Studio] Blend S [Ma10p_1080p][241001].LKSUB.sc [_调教咖啡厅_](https://vcb-s.com/archives/19257)**
+
 - **[VCB-Studio] Citrus [Ma10p_1080p][190205].DMG.tc [_柑橘味香气_](https://vcb-s.com/archives/9851)**
 
 - **[VCB-Studio] Kuzu no Honkai [Ma10p_1080p][221104].JYFan.tc [_人渣的本愿_](https://vcb-s.com/archives/15863)**
