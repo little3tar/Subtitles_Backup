@@ -21,3 +21,5 @@ _**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)相关作品发布页�
 - **[VCB-Studio] Kuzu no Honkai [Ma10p_1080p].[221104].JYFan.tc [_人渣的本愿_](https://vcb-s.com/archives/15863)**
 
 - **[VCB-Studio] Oregairu.[2406RS4].Kamigami(S1&S2).Nekomoe kissaten(S3).jpsc&jptc&jp(S1&S2).jpsc&jptc(S3) [_我的青春恋爱物语果然有问题。_](https://vcb-s.com/archives/17559)**
+
+- **[VCB-Studio] Shinigami Bocchan to Kuro Maid.[241106].Nekomoe kissaten(S1).KKTV(S2&S3).sc&tc [_死神少爷与黑女仆_](https://vcb-s.com/archives/19097)**
