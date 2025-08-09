@@ -26,7 +26,8 @@ _**中文名链接导向该压片的发布地址。**_
 
 - **Steins;Gate 2011 [BluRay 1920x1080p x264-Hi10P FLAC] - Mysilu.Aegisub.scjp** **[命运石之门](https://share.dmhy.org/topics/view/255374_Steins_Gate_BDrip_1920x1080_TV_01-24_Fin_SP_x264_Hi10P_FLAC_MKV_Mysilu.html) （动漫花园）**
 
-    _该压片使用了 **fch1993** 发布的增补版_
+    _该压片我使用了 **fch1993** 发布的增补版_
+
     _2012.05.12.Steins;Gate.2011.Blu-ray.x264-10bit.1080P.FLAC.MySilu.Aegisub.scjp **[命运石之门](https://share.dmhy.org/topics/view/302435_Steins_Gate_BDrip_1920x1080_TV_01-24_Fin_SP_x264_Hi10P_FLAC_MKV_Mysilu_fch1993.html) （动漫花园）**_
 
 - **Steins;Gate - Fuka Ryouiki no Deja vu 2013 [BD 1920x1080 AVC FLAC] -mawen1250.Aegisub.sc** **[命运石之门：负荷领域的既视感](https://share.dmhy.org/topics/view/331268_Steins_Gate_Fuka_Ryouiki_no_Deja_vu_2013_BD_1080p_AVC-yuv420p10_FLAC_MKV_mawen1250.html) （动漫花园）**
@@ -38,4 +39,5 @@ _**中英文名链接导向该压片的发布地址。**_
 - **[UCCUSS] Steins;Gate Soumei Eichi no Cognitive Computing 聡明叡智のコグニティブ・コンピューティング 全4話 (BD 1920x1080p AVC FLAC).Aegisub.sc** **[命运石之门：聪明睿智的感知运算](https://nyaa.land/view/895258) （ nyaa.land ）**
 
     _该版本做种较少，我使用了另一个组对该种二次加工后发布的英文字幕版_
+
     _[UCCUSS-WhyNot] Steins;Gate - Soumei Eichi no Cognitive Computing [BD 1920x1080p AVC FLAC].Aegisub.sc **[命运石之门：聪明睿智的感知运算](https://nyaa.land/view/920890) （ nyaa.land ）**_
