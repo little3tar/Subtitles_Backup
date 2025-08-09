@@ -1,6 +1,6 @@
 # Subtitles
 
-压缩包命名规则：压片默认文件名 . （ 压片发布 UID （ VCB-Studio ）） . 字幕组 . sc 简 （ / tc 繁 / scjp 简日双语 / tcjp 繁日双语 ）
+压缩包命名规则：压片默认文件名.（ 压片发布 UID ( VCB-Studio )）.字幕组.sc 简 （ / tc 繁 / scjp 简日双语 / tcjp 繁日双语 ）
 
 压缩包内文件夹为压片发布原始命名。
 
