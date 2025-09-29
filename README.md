@@ -36,8 +36,8 @@ _**中文名链接导向该压片的发布地址。**_
 
 _**中英文名链接导向该压片的发布地址。**_
 
-- **[UCCUSS] Steins;Gate Soumei Eichi no Cognitive Computing 聡明叡智のコグニティブ・コンピューティング 全4話 (BD 1920x1080p AVC FLAC).Aegisub.sc** **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/895258) （ nyaa.land ）**
+- **[UCCUSS] Steins;Gate Soumei Eichi no Cognitive Computing 聡明叡智のコグニティブ・コンピューティング 全4話 (BD 1920x1080p AVC FLAC).Aegisub.sc** **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/895258) （ nyaa.si ）**
 
     _该版本做种较少，我使用了另一个组对该种二次加工后发布的英文字幕版_
 
-    _[UCCUSS-WhyNot] Steins;Gate - Soumei Eichi no Cognitive Computing [BD 1920x1080p AVC FLAC].Aegisub.sc **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/920890) （ nyaa.land ）**_
+    _[UCCUSS-WhyNot] Steins;Gate - Soumei Eichi no Cognitive Computing [BD 1920x1080p AVC FLAC].Aegisub.sc **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/920890) （ nyaa.si ）**_
