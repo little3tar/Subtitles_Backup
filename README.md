@@ -1,6 +1,6 @@
 # Subtitles
 
-压缩包命名规则：压片默认文件名.（ 压片发布 UID ( VCB-Studio )）.字幕组.sc 简 （ / tc 繁 / scjp 简日双语 / tcjp 繁日双语 ）
+压缩包命名规则：压片默认文件名.（ 压片发布 UID （ VCB-Studio ））.字幕组.sc 简 （ / tc 繁 / jp 日 / scjp 简日双语 / tcjp 繁日双语 ）
 
 压缩包内文件夹为压片发布原始命名。
 
@@ -32,9 +32,15 @@ _**中文名链接导向该压片的发布地址。**_
 
 - **Steins;Gate - Fuka Ryouiki no Deja vu 2013 [BD 1920x1080 AVC FLAC] -mawen1250.Aegisub.sc** **[命运石之门：负荷领域的既视感](https://share.dmhy.org/topics/view/331268_Steins_Gate_Fuka_Ryouiki_no_Deja_vu_2013_BD_1080p_AVC-yuv420p10_FLAC_MKV_mawen1250.html) （动漫花园）**
 
+## Moozzi2
+
+_**中文名链接导向该压片的发布地址。**_
+
+- **[Moozzi2] Anohana BD-BOX - TV + SP.FLsnow(TV)&PopSub(SP).sc&tc&jp(TV)&sc(SP)** **[未闻花名](https://acg.rip/t/198654) （acg.rip）**
+
 ## UCCUSS
 
-_**中英文名链接导向该压片的发布地址。**_
+_**中文名链接导向该压片的发布地址。**_
 
 - **[UCCUSS] Steins;Gate Soumei Eichi no Cognitive Computing 聡明叡智のコグニティブ・コンピューティング 全4話 (BD 1920x1080p AVC FLAC).Aegisub.sc** **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/895258) （ nyaa.si ）**
 
