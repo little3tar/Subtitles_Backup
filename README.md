@@ -36,7 +36,7 @@ _**中文名链接导向该压片的发布地址。**_
 
 _**中文名链接导向该压片的发布地址。**_
 
-- **[Moozzi2] Anohana BD-BOX - TV + SP.FLsnow(TV)&PopSub(SP).sc&tc&jp(TV)&sc(SP)** **[未闻花名](https://acg.rip/t/198654) （acg.rip）**
+- **[Moozzi2] Anohana BD-BOX - TV + SP.FLsnow(TV).sc&tc&jp(TV).7z** **[未闻花名](https://acg.rip/t/198654) （acg.rip）**
 
 ## UCCUSS
 
