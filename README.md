@@ -14,6 +14,8 @@ _**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)相关作品发布页�
 
 - **[VCB-Studio] Citrus [Ma10p_1080p].[190205].动漫国字幕组.tc** **[_柑橘味香气_](https://vcb-s.com/archives/9851)**
 
+- **[VCB-Studio] Hanayamata [Ma10p_1080p].[250811].SumiSora&CASO&TFO.sc** **[_花舞少女_](https://vcb-s.com/archives/20690)**
+
 - **[VCB-Studio] Kuzu no Honkai [Ma10p_1080p].[221104].JYFan.tc** **[_人渣的本愿_](https://vcb-s.com/archives/15863)**
 
 - **[VCB-Studio] Kyokai no Kanata.[1612RS2].诸神字幕组(S01E00&WebSP&MOVIE1-2)&漫游字幕组(S01SP).scjp(S01E00&MOVIE1-2)&sc&tc(WebSP&S01SP)&tcjp(S01E00)** **[_境界的彼方_](https://vcb-s.com/archives/1620)**
