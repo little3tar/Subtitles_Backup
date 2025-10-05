@@ -18,6 +18,8 @@ _**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)相关作品发布页�
 
 - **[VCB-Studio] Kyokai no Kanata.[1612RS2].诸神字幕组(S01E00&WebSP&MOVIE1-2)&漫游字幕组(S01SP).scjp(S01E00&MOVIE1-2)&sc&tc(WebSP&S01SP)&tcjp(S01E00)** **[_境界的彼方_](https://vcb-s.com/archives/1620)**
 
+- **[VCB-Studio] Puella Magi Madoka Magica.[220101].华盟字幕社&澄空学园字幕组.sc** **[_魔法少女小圆_](https://vcb-s.com/archives/5722)**
+
 - **[VCB-Studio] Shinigami Bocchan to Kuro Maid.[241106].KKTV(S02&S03).sc&tc** **[_死神少爷与黑女仆_](https://vcb-s.com/archives/19097)**
 
 - **[VCB-Studio] Steins;Gate 0 [Ma10p_1080p].[2502RS1].爱恋字幕社.scjp** **[_命运石之门 0_](https://vcb-s.com/archives/11311)**
