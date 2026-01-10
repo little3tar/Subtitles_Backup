@@ -1,6 +1,8 @@
 # Subtitles
 
-字幕文件大多网上搜集，可能存在错误。
+本仓库用来备份一些自用字幕文件，尽可能为字幕文件加上了字母子集化。
+
+若资源发布时未带字幕文件，我会从网上搜集，可能存在错误。
 
 压缩包命名规则：压片默认文件名.（ 压片发布 UID （ VCB-Studio ））.字幕组.sc 简 （ / tc 繁 / jp 日 / scjp 简日双语 / tcjp 繁日双语 ）
 
@@ -14,11 +16,13 @@
 
 ## DBD-Raws
 
+_**中文名链接指向该压片的发布地址。**_
+
 - **[DBD-Raws][4K_HDR][剧场版 我们仍未知道那天所看见的花的名字。][2160P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV].scjp&tcjp** **[剧场版 我们仍未知道那天所看见的花的名字。](https://mikanani.me/Home/Episode/c78bd84b8bfb7e4c6bc9f2089ae8bba0dfe11409) （蜜柑计划）**
 
 ## mawen1250
 
-_**中文名链接导向该压片的发布地址。**_
+_**中文名链接指向该压片的发布地址。**_
 
 - **Steins;Gate 2011 [BluRay 1920x1080p x264-Hi10P FLAC] - Mysilu.爱恋字幕社.scjp(E01-24)&sc(SP)** **[命运石之门](https://share.dmhy.org/topics/view/255374_Steins_Gate_BDrip_1920x1080_TV_01-24_Fin_SP_x264_Hi10P_FLAC_MKV_Mysilu.html) （动漫花园）**
 
@@ -30,13 +34,13 @@ _**中文名链接导向该压片的发布地址。**_
 
 ## Moozzi2
 
-_**中文名链接导向该压片的发布地址。**_
+_**中文名链接指向该压片的发布地址。**_
 
 - **[Moozzi2] Anohana BD-BOX - TV + SP.雪飘工作室(S01).sc&tc&jp(S01).7z** **[未闻花名](https://acg.rip/t/198654) （acg.rip）**
 
 ## UCCUSS
 
-_**中文名链接导向该压片的发布地址。**_
+_**中文名链接指向该压片的发布地址。**_
 
 - **[UCCUSS] Steins;Gate Soumei Eichi no Cognitive Computing 聡明叡智のコグニティブ・コンピューティング 全4話 (BD 1920x1080p AVC FLAC).离谱Sub.sc&tc** **[命运石之门：聪明睿智的感知运算](https://nyaa.si/view/895258) （ nyaa.si ）**
 
@@ -46,11 +50,11 @@ _**中文名链接导向该压片的发布地址。**_
 
 ## VCB-Studio
 
-**VCB-Studio 发布的压片中有部分未附带对应的字幕文件，仓库中收集整理了部分缺失的字幕文件，改名适配 VCB-Studio 压片文件名后在此备份。**
+**VCB-Studio 发布的压片中有部分未附带对应的字幕文件，仓库中搜集整理了部分缺失的字幕文件，改名适配 VCB-Studio 压片文件名后在此备份。**
 
 **资源自带字幕文件的也做了字母子集化操作后在此备份。**
 
-_**中文名链接导向[`VCB-Studio`](https://vcb-s.com/)对应作品发布页面。**_
+_**中文名链接指向[`VCB-Studio`](https://vcb-s.com/)对应作品发布页面。**_
 
 - **[DMG&VCB-Studio] Seishun Buta Yarou wa Odekake Sister no Yume o Minai [Ma10p_1080p].[250502].sc&tc** **[_青春猪头少年不会梦到娇怜外出妹_](https://vcb-s.com/archives/20228)**
 
